@@ -1,3 +1,5 @@
+此为备份 不能在线编译
+
 # 刷机
 进入不死uboot，使用固件名：```openwrt-mediatek-filogic-glinet_gl-mt6000-squashfs-sysupgrade.bin```丢进去刷入即可。
 - full = 全插件
